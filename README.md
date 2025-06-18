@@ -1,5 +1,5 @@
 
-﻿## Apple iPhone 15 Pro Website Clone
+## 📋 <a name="table">Apple iPhone 15 Pro Website Clone</a>
 
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -71,7 +71,7 @@ Ready to run the app locally or explore the code? Here’s how you can get start
 Open [http://localhost:5173] in your browser to view the app.
 
 
-## <a name="live demo">🤸 Quick Start</a>
+## <a name="live-demo">🤸 Live Demo</a>
 Experience the live version here:
 https://apple-website-carla.vercel.app/
 
