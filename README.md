@@ -1,5 +1,5 @@
 
-## 📋 <a name="table">Apple iPhone 15 Pro Website Clone</a>
+## <a name="table">Apple iPhone 15 Pro Website Clone</a>
 
 
 ## 📋 <a name="table">Table of Contents</a>
